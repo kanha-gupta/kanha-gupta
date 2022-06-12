@@ -21,5 +21,23 @@
       width="40"></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+     </a>
+  </a>
+    <a href="https://www.mysql.com/" target="_blank">
+   
+  </a>
+      <a href="https://www.python.org" target="_blank">
+    
+  </a>
+   <img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg">
+   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg">
+ 
+  <img height="40" src="https://github.com/gilbarbara/logos/blob/master/logos/dart.svg">
+  <img height="40" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+ 
+</p>
 
  
