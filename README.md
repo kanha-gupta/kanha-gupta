@@ -19,6 +19,13 @@
       alt="Kanha gupta"
       height="40"
       width="40"></a>
+      <a href="kanhag4163@gmail.com" target="blank"
+    ><img
+      align="center"
+      src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg"
+      alt="Kanha gupta"
+      height="40"
+      width="40"></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
