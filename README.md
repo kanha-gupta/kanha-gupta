@@ -40,4 +40,10 @@
  
 </p>
 
- 
+<h2 align="center">Github Statistics </h2>
+
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanha-gupta&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/kanha-gupta)|[![Kanha's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=kanha-gupta&theme=midnight-purple&hide_border=true)](https://github.com/kanha-gupta)
+|[![Kanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanha-gupta&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/kanha-gupta)|
+</p>
