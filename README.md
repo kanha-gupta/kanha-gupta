@@ -1,19 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi I'm Kanha !</h1>
+<p align="center">
 
-<!--
-**kanha-gupta/kanha-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</a>
+  <a href="https://www.linkedin.com/in/kanha-gupta-706948216/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Kanha gupta"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.instagram.com/kanha_gupta__/" target="blank"
+    ><img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
+      alt="Kanha gupta"
+      height="40"
+      width="40"></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Github stats](https://github-readme-stats.vercel.app/api?username=kanha-gupta&count_private=true&show_icons=true&theme=radical)
-
-![Top languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=kanha-gupta&show_icons=true&theme=radical)
+ 
