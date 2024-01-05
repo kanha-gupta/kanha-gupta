@@ -3,34 +3,19 @@ Hey there, I am Kanha Gupta 👋
 Glad to have you here!
 I love technology, innovation, traveling and sports ,and much more!
 
-* Email - kanhag4163@gmail.com 📧
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanha-gupta-706948216/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kanhag4163) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/techieeeguptaa) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kanhag4163@gmail.com)
+
+
+  
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/kanha-gupta/count.svg" />
 </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-     </a>
-  </a>
-    <a href="https://www.mysql.com/" target="_blank">
-   
-  </a>
-      <a href="https://www.python.org" target="_blank">
-    
-  </a>
-   <img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg">
-   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg">
- 
-  <img height="40" src="https://github.com/gilbarbara/logos/blob/master/logos/dart.svg">
-  <img height="40" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
- 
-</p>
-
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=kanha-g&theme=forest&font=Georgia)
 
 <h2 align="center">Github Statistics </h2>
 
